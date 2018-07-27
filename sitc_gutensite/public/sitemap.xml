@@ -1,0 +1,54 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>http://127.0.0.1:1111/people/admins/</loc>
+            
+                <lastmod>2018-07-27</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/people/orgs/</loc>
+            
+                <lastmod>2018-07-27</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/social/git/</loc>
+            
+                <lastmod>2018-07-27</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/social/youtube/</loc>
+            
+                <lastmod>2018-07-27</lastmod>
+            
+        </url>
+    
+    
+        <url>
+            <loc>http://127.0.0.1:1111/</loc>
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/people/</loc>
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/social/</loc>
+        </url>
+    
+    
+        <url>
+            <loc>http://127.0.0.1:1111/categories/</loc>
+        </url>
+    
+    
+        <url>
+            <loc>http://127.0.0.1:1111/tags/</loc>
+        </url>
+    
+</urlset>

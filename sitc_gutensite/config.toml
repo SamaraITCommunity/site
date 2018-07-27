@@ -1,0 +1,30 @@
+# The URL the site will be built for
+base_url = "https://samaraitc.ru"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Gutenberg
+highlight_code = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+theme = "hyde"
+
+title = "SITC"
+description = "Сайт сообщества работников сферы ИТ Самары и области - Samara IT Community"
+
+[extra]
+# Put all your custom variables here
+hyde_links = [
+    {url = "/people", name = "Люди"},
+    {url = "/social", name = "Мы в соц сетях"},
+    {url = "https://vk.com/samara_it_community", name = "Группа Вконтакте"},
+    {url = "https://twitter.com/TcommunityI", name = "Twitter"},
+    {url = "https://www.instagram.com/itc_samara/", name = "Instagram"},
+    {url = "https://t.me/Samara_IT_Community", name = "Telegram Канал"},
+    {url = "https://www.youtube.com/channel/UCWwGzRCrnCWRVQ_UlpwZQMA", name = "Youtube Канал"},
+    {url = "https://www.patreon.com/samara_it_community", name = "Patreon"},
+]
