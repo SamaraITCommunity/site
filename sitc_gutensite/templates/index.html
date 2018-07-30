@@ -13,6 +13,7 @@
       <link rel="stylesheet" href="{{ get_url(path="print.css", trailing_slash=false) }}" media="print">
       <link rel="stylesheet" href="{{ get_url(path="poole.css", trailing_slash=false) }}">
       <link rel="stylesheet" href="{{ get_url(path="hyde.css", trailing_slash=false) }}">
+    <link rel="stylesheet" href="{{ get_url(path="style.css", trailing_slash=false) }}">
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
       {% if config.generate_rss %}
@@ -36,16 +37,24 @@
                         {% endblock sidebar_about %}
                     </div>
 
-                    <ul class="sidebar-nav">
-                        {% block sidebar_nav %}
-                        {% for link in config.extra.hyde_links %}
-                        <li><a href="{{link.url}}">{{link.name}}</a></li>
-                        {% endfor %}
-                        {% endblock sidebar_nav %}
-                    </ul>
-                </div>
-            </div>
-        {% endblock sidebar %}
+        <ul class="sidebar-nav">
+            {% block sidebar_nav %}
+            {% for link in config.extra.hyde_menu_links %}
+            <li><a href="{{link.url}}">{{link.name}}</a></li>
+            {% endfor %}
+            {% endblock sidebar_nav %}
+        </ul>
+
+        <ul class="sidebar-nav social">
+            {% block sidebar_social %}
+            {% for link in config.extra.hyde_social_links %}
+            <li><img class="logo" src="{{link.logo}}"><a href="{{link.url}}">{{link.name}}</a></li>
+            {% endfor %}
+            {% endblock sidebar_social %}
+        </ul>
+    </div>
+</div>
+{% endblock sidebar %}
 
         <div class="content container">
             {% block content %}
@@ -59,12 +68,13 @@
                         </h1>
 
                         <span class="post-date">{{ page.date | date(format="%Y-%m-%d") }}</span>
+                          {{ page.summary | safe }}
                       </div>
                     {% endfor %}
                 </div>
             {% endblock content %}
         </div>
 
-    </body>
+</body>
 
 </html>

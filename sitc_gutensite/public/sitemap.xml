@@ -1,6 +1,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
+            <loc>http://127.0.0.1:1111/another-news/</loc>
+            
+                <lastmod>2018-07-31</lastmod>
+            
+        </url>
+    
+        <url>
             <loc>http://127.0.0.1:1111/people/admins/</loc>
             
                 <lastmod>2018-07-27</lastmod>
@@ -11,6 +18,13 @@
             <loc>http://127.0.0.1:1111/people/orgs/</loc>
             
                 <lastmod>2018-07-27</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/site-run/</loc>
+            
+                <lastmod>2018-07-30</lastmod>
             
         </url>
     

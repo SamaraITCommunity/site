@@ -18,13 +18,15 @@ description = "Сайт сообщества работников сферы И�
 
 [extra]
 # Put all your custom variables here
-hyde_links = [
+hyde_menu_links = [
     {url = "/people", name = "Люди"},
     {url = "/social", name = "Мы в соц сетях"},
-    {url = "https://vk.com/samara_it_community", name = "Группа Вконтакте"},
-    {url = "https://twitter.com/TcommunityI", name = "Twitter"},
-    {url = "https://www.instagram.com/itc_samara/", name = "Instagram"},
-    {url = "https://t.me/Samara_IT_Community", name = "Telegram Канал"},
-    {url = "https://www.youtube.com/channel/UCWwGzRCrnCWRVQ_UlpwZQMA", name = "Youtube Канал"},
-    {url = "https://www.patreon.com/samara_it_community", name = "Patreon"},
+]
+hyde_social_links = [
+    {url = "https://vk.com/samara_it_community", name = "Группа Вконтакте", logo = "/social/vk_bw_logo.png"},
+    {url = "https://twitter.com/TcommunityI", name = "Twitter", logo = "/social/Twitter_Logo_Blue.png"},
+    {url = "https://www.instagram.com/itc_samara/", name = "Instagram", logo = ""},
+    {url = "https://t.me/Samara_IT_Community", name = "Telegram Канал", logo = ""},
+    {url = "https://www.youtube.com/channel/UCWwGzRCrnCWRVQ_UlpwZQMA", name = "Youtube Канал", logo = ""},
+    {url = "https://www.patreon.com/samara_it_community", name = "Patreon", logo = ""},
 ]

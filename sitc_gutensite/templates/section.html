@@ -5,6 +5,7 @@
     {{ section.content | safe }}
     {% for post in section.pages %}
         <h2><a href="{{ post.permalink }}">{{ post.title }}</a></h2>
+        {{ post.summary | safe }}
     {% endfor %}
 {% endblock content %}
 
