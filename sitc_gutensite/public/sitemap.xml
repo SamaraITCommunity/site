@@ -24,8 +24,6 @@
         <url>
             <loc>http://127.0.0.1:1111/events/top-secret/</loc>
             
-                <lastmod>2018-07-27</lastmod>
-            
         </url>
     
         <url>
@@ -37,6 +35,13 @@
     
         <url>
             <loc>http://127.0.0.1:1111/people/orgs/</loc>
+            
+                <lastmod>2018-07-27</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/people/speakers/</loc>
             
                 <lastmod>2018-07-27</lastmod>
             
