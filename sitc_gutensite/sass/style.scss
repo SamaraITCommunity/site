@@ -9,3 +9,31 @@
          margin: 0 5px 0 0;
     }
 }
+
+.mini-profile {
+    display: inline-block;
+    img {
+        width: 128px;
+        height: 128px;
+        float: left;
+    }
+    img:after {
+        content: "";
+        clear: both;
+    }
+    span {
+        height: 128px;
+        line-height: 128px;
+        text-align: center;
+        padding-left: 5px;
+    }
+}
+
+.google-calendar {
+    float: right;
+
+    :after{
+        content: "";
+        clear: both;
+    }
+}

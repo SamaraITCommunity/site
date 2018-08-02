@@ -7,5 +7,14 @@ in_search_index = true
 template = "page.html"
 +++
 
-Администраторы сообщества
-<!-- more -->
+# Администраторы сообщества
+
+{{ miniprofile(id="julypuzankova", text="Юлия Пузанкова") }} 
+
+{{ miniprofile(id="nikolaysladkiy", text="Николай Сладкий") }}
+
+{{ miniprofile(id="dmitrynikolaev", text="Дмитрий Николаев") }}
+
+{{ miniprofile(id="nikitapuzankov", text="Никита Пузанков") }}
+
+{{ miniprofile(id="dmitriychervyakov", text="Дмитрий Червяков") }}

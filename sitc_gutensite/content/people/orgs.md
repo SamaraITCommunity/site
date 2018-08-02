@@ -9,8 +9,6 @@ template = "page.html"
 
 # Организаторы мероприятий под эгидой нашего сообщества:
 
-<!-- more -->
-
 ## GrindConf
 
 {{ miniprofile(id="julypuzankova", text="Юлия Пузанкова") }} 

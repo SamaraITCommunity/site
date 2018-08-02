@@ -1,9 +1,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>http://127.0.0.1:1111/another-news/</loc>
+            <loc>http://127.0.0.1:1111/0-site-run/</loc>
+            
+                <lastmod>2018-07-30</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/1-secret-news/</loc>
             
                 <lastmod>2018-07-31</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/events/grind-conf/</loc>
+            
+                <lastmod>2018-07-27</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/events/top-secret/</loc>
+            
+                <lastmod>2018-07-27</lastmod>
             
         </url>
     
@@ -22,21 +43,14 @@
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/site-run/</loc>
-            
-                <lastmod>2018-07-30</lastmod>
-            
-        </url>
-    
-        <url>
-            <loc>http://127.0.0.1:1111/social/git/</loc>
+            <loc>http://127.0.0.1:1111/resources/git/</loc>
             
                 <lastmod>2018-07-27</lastmod>
             
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/social/youtube/</loc>
+            <loc>http://127.0.0.1:1111/resources/youtube/</loc>
             
                 <lastmod>2018-07-27</lastmod>
             
@@ -48,11 +62,15 @@
         </url>
     
         <url>
+            <loc>http://127.0.0.1:1111/events/</loc>
+        </url>
+    
+        <url>
             <loc>http://127.0.0.1:1111/people/</loc>
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/social/</loc>
+            <loc>http://127.0.0.1:1111/resources/</loc>
         </url>
     
     

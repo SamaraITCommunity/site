@@ -1,7 +1,7 @@
 +++
-title = "Мы в соцсетях"
+title = "SITC на других ресурсах"
 date = 2018-07-27
-description = "Социальные сети нашего сообщества"
+description = "Различные ресурсы нашего сообщества"
 
 # Whether to sort by "date", "order", "weight" or "none". More on that below
 sort_by = "none"
@@ -35,4 +35,4 @@ render = true
 [extra]
 +++
 
-Наше сообщество в социальных сетях
+Наше сообщество в социальных сетях, профессиональных ресурсах и медиазонах.
