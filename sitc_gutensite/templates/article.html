@@ -1,10 +1,10 @@
 {% extends "index.html" %}
 
 {% block content %}
-<div class="post">
+<article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date(format="%Y-%m-%d") }}</span>
   {{ page.content | safe }}
-</div>
+</article>
 {% endblock content %}
 

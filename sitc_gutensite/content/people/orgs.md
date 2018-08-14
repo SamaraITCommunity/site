@@ -16,3 +16,13 @@ template = "page.html"
 {{ miniprofile(id="dmitrynikolaev", text="Дмитрий Николаев") }}
 
 {{ miniprofile(id="nikitapuzankov", text="Никита Пузанков") }}
+
+## VolgaHack
+
+{{ miniprofile(id="julypuzankova", text="Юлия Пузанкова") }} 
+
+{{ miniprofile(id="nikitapuzankov", text="Никита Пузанков") }}
+
+{{ miniprofile(id="dmitriychervyakov", text="Дмитрий Червяков") }}
+
+{{ miniprofile(id="artyomivanov", text="Артём Иванов") }}

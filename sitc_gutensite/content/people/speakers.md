@@ -17,9 +17,11 @@ template = "page.html"
 - Rust, or there and back again - GrindConf Spring 18
 - Make REST great again - GrindConf Summer June
 - Rust, or there and back again, part 2 - GrindConf Summer July
+- Вжух - превращаем монолит в микросервисы - GrindConf Summer August
 
 {{ miniprofile(id="dmitriychervyakov", text="Дмитрий Червяков") }}
 - Hackatonы как способ путешествовать бесплатно - GrindConf Spring 18
+- Э-эффективность - GrindConf Summer August 
 
 {{ miniprofile(id="evgeniiyulin", text="Евгений Юлин") }}
 - Vue.js - GrindConf Spring 18
@@ -48,3 +50,4 @@ template = "page.html"
 
 {{ miniprofile(id="ilyakuchmin", text="Илья Кучмин") }}
 - Эффективность на кончиках пальцев, буквально... - GrindConf Summer Togliatti
+- Эффективность на кончиках пальцев, буквально... - GrindConf Summer August

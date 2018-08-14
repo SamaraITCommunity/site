@@ -8,7 +8,7 @@
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/1-secret-news/</loc>
+            <loc>http://127.0.0.1:1111/1-volgahack/</loc>
             
                 <lastmod>2018-07-31</lastmod>
             
@@ -22,7 +22,7 @@
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/events/top-secret/</loc>
+            <loc>http://127.0.0.1:1111/events/volgahack/</loc>
             
         </url>
     
@@ -51,6 +51,41 @@
             <loc>http://127.0.0.1:1111/resources/git/</loc>
             
                 <lastmod>2018-07-27</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/resources/insta/</loc>
+            
+                <lastmod>2018-08-14</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/resources/patreon/</loc>
+            
+                <lastmod>2018-08-14</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/resources/telegram/</loc>
+            
+                <lastmod>2018-08-14</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/resources/twitter/</loc>
+            
+                <lastmod>2018-08-14</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/resources/vk/</loc>
+            
+                <lastmod>2018-08-14</lastmod>
             
         </url>
     
