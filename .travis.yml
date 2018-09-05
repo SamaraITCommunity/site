@@ -1,0 +1,13 @@
+before_script:
+- curl -s -L https://github.com/Keats/gutenberg/releases/download/v0.3.1/gutenberg-v0.3.1-x86_64-unknown-linux-gnu.tar.gz | sudo tar xvzf - -C /usr/local/bin
+
+script:
+- gutenberg build
+
+after_success: |
+  [ $TRAVIS_BRANCH = master ] &&
+  [ $TRAVIS_PULL_REQUEST = false ] &&
+  gutenberg build &&
+  sudo pip install ghp-import &&
+  ghp-import -n public &&
+  git push -fq https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git gh-pages
