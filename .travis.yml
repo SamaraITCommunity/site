@@ -9,5 +9,5 @@ after_success: |
   [ $TRAVIS_PULL_REQUEST = false ] &&
   gutenberg build &&
   sudo pip install ghp-import &&
-  ghp-import -n public &&
+  ghp-import -c sitc.community -n public &&
   git push -fq https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git gh-pages
