@@ -26,3 +26,5 @@ template = "page.html"
 {{ miniprofile(id="dmitriychervyakov", text="Дмитрий Червяков") }}
 
 {{ miniprofile(id="artyomivanov", text="Артём Иванов") }}
+
+{{ miniprofile(id="nikolaysladkiy", text="Николай Сладкий") }}
