@@ -9,7 +9,7 @@ template = "page.html"
 
 # Организаторы мероприятий под эгидой нашего сообщества:
 
-## GrindConf
+## [GrindConf](#grind_conf)
 
 {{ miniprofile(id="julypuzankova", text="Юлия Пузанкова") }} 
 
@@ -17,7 +17,7 @@ template = "page.html"
 
 {{ miniprofile(id="nikitapuzankov", text="Никита Пузанков") }}
 
-## VolgaHack
+## [VolgaHack](#volgahack)
 
 {{ miniprofile(id="julypuzankova", text="Юлия Пузанкова") }} 
 
