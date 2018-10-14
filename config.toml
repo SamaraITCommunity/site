@@ -21,6 +21,7 @@ description = "Сайт сообщества работников сферы И�
 hyde_menu_links = [
     {url = "/people", name = "Люди"},
     {url = "/events", name = "Мероприятия"},
+    {url = "/communities", name = "Сообщества"},
     {url = "/resources", name = "Ресурсы"},
 ]
 hyde_social_links = [
