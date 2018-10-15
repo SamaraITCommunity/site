@@ -3,7 +3,7 @@ before_script:
 
 script:
   - git submodule init
-  - git submodule upate
+  - git submodule update
   - gutenberg build
 
 after_success: |
