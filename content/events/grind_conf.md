@@ -33,6 +33,7 @@ description = "Регулярная конференция формата 20х4"
 - [GrindConf Summer July](https://vk.com/event168174576)
 - [GrindConf Summer Togliatti](https://vk.com/event167740154)
 - [GrindConf Summer August](https://vk.com/event169250053)
+- [GrindConf November](https://vk.com/event172461220)
 
 ## Организаторы
 
