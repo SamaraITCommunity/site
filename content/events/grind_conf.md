@@ -18,6 +18,7 @@ description = "Регулярная конференция формата 20х4"
 - LLVM [Novice]
 - Контейнеризация [Novice|Medium]
 - MongoDB [Advanced]
+- Подготовка резюме [Medium]
 
 
 ## Расписание
