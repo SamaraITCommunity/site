@@ -1,5 +1,6 @@
 {% extends "index.html" %}
-
+{% block ogtitle %}{{ section.title }}{% endblock ogtitle %}
+{% block ogdescription %}{{ section.description }}{% endblock ogdescription %}
 {% block content %}
     <h1>{{ section.title }}</h1>
     {{ section.content | safe }}
