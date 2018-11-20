@@ -19,7 +19,7 @@ description = "Регулярная конференция формата 20х4"
 - Контейнеризация [Novice|Medium]
 - MongoDB [Advanced]
 - Подготовка резюме [Medium]
-
+- UNIX/Linux [Medium]
 
 ## Расписание
 
