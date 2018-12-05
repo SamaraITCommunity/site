@@ -20,6 +20,7 @@ description = "Регулярная конференция формата 20х4"
 - MongoDB [Advanced]
 - Подготовка резюме [Medium]
 - UNIX/Linux [Medium]
+- Concurrent programming: programming models (actor model, CSP, π-calculus, etc) and implementations (async/await, go/coroutines, green threads, continuations, etc) [Advanced]
 
 ## Расписание
 
