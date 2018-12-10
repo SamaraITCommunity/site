@@ -11,6 +11,6 @@ description = "Meetup для пользователей Java и Kotlin"
 <!-- more -->
 
 Мероприятие собрало полный зал любителей JVM языков, материалы докладов и полный фото отчёт вы можете найти
-в [нашем посте в ВК](https://vk.com/samara_it_community?w=wall-143954349_929).
+в [нашем посте в ВК](https://vk.com/wall-143954349_931).
 
 ![KUG/JUG Meetup Photo](/events/jug_kug_meetup_review.jpg)
