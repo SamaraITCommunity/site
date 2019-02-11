@@ -1,6 +1,7 @@
 +++
 title = "JUG/KUG Meetup"
 description = "Meetup для пользователей Java и Kotlin"
+weight = 4
 +++
 
 Самара известна своей любовью к JVM — поэтому 
