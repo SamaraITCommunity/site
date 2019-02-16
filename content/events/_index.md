@@ -4,7 +4,7 @@ date = 2018-07-27
 description = "Мероприятия Samara IT Community"
 
 # Whether to sort by "date", "order", "weight" or "none". More on that below
-sort_by = "none"
+sort_by = "weight"
 
 # Used by the parent section to order its subsections.
 # Lower values have priority.
@@ -37,9 +37,8 @@ render = true
 
 {{ googlecalendar() }}
 
-В календаре показаны все мерорпиятия Самары и области, 
-подробнее про мероприятия развиваемые нашим сообществом вы можете ознакомиться на отдельных страницах.
-
-Если вы хотите стать спикером на одном из наших мероприятий - просто заполните [заявку](https://goo.gl/forms/CNa9Fwk2v078AYih2).
+В календаре нашего сообщества показаны все мерорпиятия Самары и области. 
+Если вы хотите стать докладчиком на одном из наших мероприятий - просто заполните [заявку](https://goo.gl/forms/CNa9Fwk2v078AYih2).
+Подробнее про события организуемые нашим сообществом вы можете ознакомиться ниже.
 
 ## [Материалы для докладчиков](bootcamp)

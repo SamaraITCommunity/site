@@ -1,6 +1,7 @@
 +++
 title = "VolgaHack"
 description = "Первый хакатон от Samara IT Community"
+weight = 5
 +++
 
 Запускаем первый хакатон от Samara IT Community и наших партнёров - 

@@ -1,6 +1,7 @@
 +++
 title = "SITC Game Jam"
 description = "Jam для любителей не только играть, но и создавать"
+weight = 6
 +++
 
 По запросам сообщества запускаем SITC Game Jam!
