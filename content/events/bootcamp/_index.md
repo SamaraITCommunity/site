@@ -1,10 +1,10 @@
 +++
-title = "Мероприятия"
-date = 2018-07-27
-description = "Мероприятия Samara IT Community"
+title = "Speakers Bootcamp"
+date = 2019-02-11
+description = "Материалы для подготовки докладчиков"
 
 # Whether to sort by "date", "order", "weight" or "none". More on that below
-sort_by = "weight"
+sort_by = "none"
 
 # Used by the parent section to order its subsections.
 # Lower values have priority.
@@ -35,10 +35,12 @@ render = true
 [extra]
 +++
 
-{{ googlecalendar() }}
+## Зачем спикерам готовиться к выступлению
 
-В календаре нашего сообщества показаны все мерорпиятия Самары и области. 
-Если вы хотите стать докладчиком на одном из наших мероприятий - просто заполните [заявку](https://goo.gl/forms/CNa9Fwk2v078AYih2).
-Подробнее про события организуемые нашим сообществом вы можете ознакомиться ниже.
+- Улучшать свои навыки публичных выступлений
+- Ценить время своих слушателей
+- Готовить доклады, которые могут быть использованы на более крупных мероприятиях
 
-## [Материалы для докладчиков](bootcamp)
+## Какой процесс подготовки докладов на мероприятия организуемые SITC
+
+Детальное описание можно изучить в [документе](https://docs.google.com/document/d/172Vj9_-YttulbnMcbQ1aw4rtw2fvIm0IPKz3FCjGwCg/edit?usp=sharing)
