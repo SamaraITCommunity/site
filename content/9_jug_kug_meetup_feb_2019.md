@@ -6,7 +6,7 @@ description = "Meetup для пользователей Java и Kotlin"
 
 Самара известна своей любовью к JVM — поэтому 
 [https://t.me/samarakug](https://t.me/samarakug) и [https://t.me/JUGSamara](https://t.me/JUGSamara)
- при поддержке компании EPAM объединили свои усилия для возрождения митапов посвящённых
+ при поддержке компании EPAM объединили свои усилия для возрождения митапов, посвящённых
   Kotlin и Java!
 
 <!-- more -->
