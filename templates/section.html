@@ -1,4 +1,8 @@
 {% extends "index.html" %}
+
+{% block title %}{{ section.title }}{% endblock title %}
+{% block description %}{{ section.description }}{% endblock description %}
+
 {% block ogtitle %}{{ section.title }}{% endblock ogtitle %}
 {% block ogdescription %}{{ section.description }}{% endblock ogdescription %}
 {% block content %}
