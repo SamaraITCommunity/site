@@ -24,6 +24,7 @@ weight = 3
 - Concurrent programming: programming models (actor model, CSP, π-calculus, etc) and implementations 
 (async/await, go/coroutines, green threads, continuations, etc) [Advanced]
 - Мобильная разработка на Kotlin [Novice]
+- spinnaker.io [Novice]
 
 ## Расписание
 
