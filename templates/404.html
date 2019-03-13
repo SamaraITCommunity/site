@@ -44,7 +44,49 @@
 
     <body class="{{ config.extra.hyde_theme }} {% if config.extra.hyde_reverse %}layout-reverse{% endif %}">
 	<center>
-	<a href="{{ config.base_url }}"><img style='height: 50%; width: 50%' src="{{ config.base_url }}\404.png"/></a>
+	<a href="{{ config.base_url }}">
+        <picture>
+            <source
+                type="image/webp"
+                srcset="
+                        /404-1x-desktop.webp 1x,
+                        /404-1.5x-desktop.webp 1.5x,
+                        /404-2x-desktop.webp 2x
+                    "
+                media="(min-width: 481px)"
+            >
+            <source
+                srcset="
+                        /404-1x-desktop.png 1x,
+                        /404-1.5x-desktop.png 1.5x,
+                        /404-2x-desktop.png 2x
+                    "
+                media="(min-width: 481px)"
+            >
+            <source
+                type="image/webp"
+                srcset="
+                        /404-1x-mobile.webp 1x,
+                        /404-1.5x-mobile.webp 1.5x,
+                        /404-2x-mobile.webp 2x
+                    "
+                media="(max-width: 480px)"
+            >
+            <source
+                srcset="
+                    /404-1x-mobile.png 1x,
+                    /404-1.5x-mobile.png 1.5x,
+                    /404-2x-mobile.png 2x
+                "
+                media="(max-width: 480px)"
+            >
+            <img
+                class="image-404"
+                src="/404-1x-mobile.png"
+
+            />
+        </picture>
+    </a>
 	</center>
 
 </body>
