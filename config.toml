@@ -23,6 +23,7 @@ hyde_menu_links = [
     {url = "/events", name = "Мероприятия"},
     {url = "/communities", name = "Сообщества"},
     {url = "/resources", name = "Ресурсы"},
+    {url = "/study", name = "Обучение"},
 ]
 hyde_social_links = [
     {url = "https://vk.com/samara_it_community", name = "Группа Вконтакте", logo = "/social/vk_bw_logo.png"},
