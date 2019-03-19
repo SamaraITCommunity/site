@@ -16,7 +16,7 @@ description = "Курсы по ИТ специальностям в Самаре
 ### Контроль качества
 
 - Тестирование ПО от [Учебного центра компании EPAM Самара и Тольятти](https://vk.com/kursy_epam).
-- QA от компании [Altarix](https://vk.com/topic-133347691_38775963).
+- QA от компании [Altarix](https://vk.com/altarixrussia).
 - Тестирование ПО от [Учебного центра компании Netcracker](http://sam.edu-netcracker.com/).
 
 
@@ -28,7 +28,7 @@ description = "Курсы по ИТ специальностям в Самаре
 
 #### Android
 
-- Android разработка от компании [Altarix](https://vk.com/topic-133347691_38775963).
+- Android разработка от компании [Altarix](https://vk.com/altarixrussia).
 
 #### BigData
 
@@ -37,11 +37,11 @@ description = "Курсы по ИТ специальностям в Самаре
 #### Front-end
 
 - Front-end разработка от [Учебного центра компании EPAM Самара и Тольятти](https://vk.com/kursy_epam).
-- Front-end разработка от компании [Altarix](https://vk.com/topic-133347691_38775963).
+- Front-end разработка от компании [Altarix](https://vk.com/altarixrussia).
 
 #### iOS
 
-- iOS разработка от компании [Altarix](https://vk.com/topic-133347691_38775963).
+- iOS разработка от компании [Altarix](https://vk.com/altarixrussia).
 
 
 #### Java
@@ -52,5 +52,5 @@ description = "Курсы по ИТ специальностям в Самаре
 
 #### PHP
 
-- PHP разработка от компании [Altarix](https://vk.com/topic-133347691_38775963).
+- PHP разработка от компании [Altarix](https://vk.com/altarixrussia).
 
