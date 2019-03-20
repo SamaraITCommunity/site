@@ -33,11 +33,11 @@ SITC.community является статическим сайтом, для ге
 
 ### Hall of fame
 
-[![](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/images/0)](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/links/0)
-[![](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/images/1)](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/links/1)
-[![](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/images/2)](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/links/2)
-[![](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/images/3)](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/links/3)
-[![](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/images/4)](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/links/4)
-[![](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/images/5)](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/links/5)
-[![](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/images/6)](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/links/6)
-[![](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/images/7)](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/links/7)
+[![Контрибьютор 0](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/images/0)](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/links/0)
+[![Контрибьютор 1](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/images/1)](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/links/1)
+[![Контрибьютор 2](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/images/2)](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/links/2)
+[![Контрибьютор 3](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/images/3)](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/links/3)
+[![Контрибьютор 4](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/images/4)](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/links/4)
+[![Контрибьютор 5](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/images/5)](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/links/5)
+[![Контрибьютор 6](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/images/6)](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/links/6)
+[![Контрибьютор 7](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/images/7)](https://sourcerer.io/fame/sergey48k/SamaraITCommunity/site/links/7)
