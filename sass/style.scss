@@ -10,6 +10,20 @@
     }
 }
 
+.participants {
+	img {
+		width: 128px;
+		height: 128px;
+		padding: 5px;
+		float: right;
+		border-radius: 50%;
+	}
+	img:after {
+		content: "";
+		clear: both;
+	    }
+}
+
 .mini-profile {
     min-width: 310px;
     display: inline-block;
