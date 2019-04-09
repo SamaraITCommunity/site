@@ -1,0 +1,51 @@
+{% extends "index.html" %}
+
+{% block title %}{{ section.title }}{% endblock title %}
+{% block description %}{{ section.description }}{% endblock description %}
+
+{% block ogtitle %}{{ section.title }}{% endblock ogtitle %}
+{% block ogdescription %}{{ section.description }}{% endblock ogdescription %}
+{% block content %}
+    <h1>{{ section.title }}</h1>
+    {{ section.content | safe }}
+    {% set data = load_data(path="people/people.json") %}
+    <div class="participants">
+    {% for participant in data.information %}
+    	{% if participant.avatar.circle %}
+		<img src="{{participant.avatar.circle}}"/>	
+	{% endif %}
+        <h2><a href="https://github.com/{{ participant.social.github }}">{{ participant.bio.name }}</a></h2>
+	<p>
+	Работа:
+	<ul>
+		{% for job in participant.bio.jobs %}
+			<li>Должность: {{job.title}}, Компания: {{job.company}}</li>
+		{% endfor %}
+	</ul>
+	Социальные сети:
+	{% if participant.social.twitter%}
+		<a href="https://twitter.com/{{ participant.social.twitter}}">Twitter</a>;
+	{% endif %}
+	{% if participant.social.vk%}
+		<a href="https://vk.com/{{ participant.social.vk}}">VK</a>;
+	{% endif %}
+	{% if participant.social.telegram%}
+		<a href="https://telegram.me/{{ participant.social.telegram}}">Telegram</a>;
+	{% endif %}
+	{% if participant.social.github%}
+		<a href="https://github.com/{{ participant.social.github}}">GitHub</a>;
+	{% endif %}
+	{% if participant.social.gitlab%}
+		<a href="https://gitlab.com/{{ participant.social.gitlab}}">GitLab</a>;
+	{% endif %}
+	{% if participant.social.linkedin%}
+		<a href="https://www.linkedin.com/in/{{ participant.social.linkedin}}">LinkedIn</a>;
+	{% endif %}
+	{% if participant.social.tumblr%}
+		<a href="https://{{ participant.social.tumblr}}.tumblr.com/">Tumblr</a>;
+	{% endif %}
+	</p>
+    {% endfor %}
+    </div>
+{% endblock content %}
+

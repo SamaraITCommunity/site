@@ -1,0 +1,123 @@
+{
+	"information": [
+		{
+			"id": 0,
+			"avatar": {
+				"circle": "/people/nikitapuzankov/circle_avatar.jpg"
+			},
+			"bio": {
+				"name": "Nikita Puzankov",
+				"birthday": "1993-10-28",
+				"jobs": [
+					{
+						"title": "Software Engineer",
+						"company": "Netcracker"
+					},
+					{
+						"title": "Lead Software Engineer",
+						"company": "EPAM"
+					},
+					{
+						"title": "Resource Manager",
+						"company": "EPAM"
+					}
+				]
+			},
+			"social": {
+				"twitter": "humb1t",
+				"vk": "humb1t",
+				"telegram": "humb1t",
+				"github": "humb1t",
+				"gitlab": "humb1t",
+				"linkedin": "humb1t",
+				"tumblr": "humb1t"
+			}
+		},
+		{
+			"id": 1,
+			"avatar": {
+				"circle": "/people/nikolaysladkiy/circle_avatar.jpg"
+			},
+			"bio": {
+				"name": "Nikolay Sladkiy",
+				"jobs": [
+					{
+						"title": "CTO",
+						"company": "Multikey Studio"
+					}
+				]
+			},
+			"social": {
+				"vk": "nikolasmelui",
+				"telegram": "nikolasmelui",
+				"github": "NikolasMelui"
+			}
+		},
+		{
+      "id": 2,
+      "avatar": {
+        "circle": "/people/dmitrynikolaev/circle_avatar.jpg"
+      },
+      "bio": {
+        "name": "Dmitry Nikolaev",
+        "birthday": "1993-02-11",
+        "jobs": [
+          {
+            "title": "Frontend developer",
+            "company": "Multikey studio"
+          }
+        ]
+      },
+      "social": {
+        "twitter": "nikolaev_dd",
+        "vk": "nikolaev_dd",
+        "telegram": "nikolaev_dd",
+        "github": "BooSt163"
+      }
+    },
+		{
+      "id": 3,
+      "bio": {
+        "name": "Gennady Savinov",
+        "birthday": "1994-09-13",
+        "jobs": [
+          {
+            "title": "Senior Software Engineer",
+            "company": "nexign"
+          }
+        ]
+      },
+      "social": {
+        "twitter": "gennady_sa",
+        "vk": "gennady163",
+        "telegram": "genius163",
+        "github": "Gennady163sam",
+        "linkedin": "genius163"
+      }
+    },
+		{
+      "id": 4,
+      "avatar": {
+        "circle": "/people/alexandershimanov/circle_avatar.jpg"
+      },
+      "bio": {
+        "name": "Alexander Shimanov",
+        "birthday": "1990-01-05",
+        "jobs": [
+          {
+            "title": "Game developer",
+            "company": "SamSMU"
+          },
+          {
+            "title": "Owner",
+            "company": "VertigoVr"
+          }
+        ]
+      },
+      "social": {
+        "telegram": "hermesis",
+        "github": "hermesiss"
+      }
+    }
+	]
+}
