@@ -4,7 +4,7 @@ date = 2018-07-27
 description = "Различные ресурсы нашего сообщества"
 
 # Whether to sort by "date", "order", "weight" or "none". More on that below
-sort_by = "none"
+sort_by = "date"
 
 # Used by the parent section to order its subsections.
 # Lower values have priority.
