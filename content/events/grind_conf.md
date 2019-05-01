@@ -25,6 +25,7 @@ weight = 3
 (async/await, go/coroutines, green threads, continuations, etc) [Advanced]
 - Мобильная разработка на Kotlin [Novice]
 - spinnaker.io [Novice]
+- Системы контроля версий (обзорная, например про [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki)) [Novice]
 
 ## Расписание
 
