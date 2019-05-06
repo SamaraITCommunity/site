@@ -1,7 +1,7 @@
 +++
 title = "Open Data Science"
 date = 2019-05-06
-description = "Всероссийское сообщество Open Data Science"
+description = "Международное сообщество Open Data Science"
 +++
 
 ## Open Data Science
