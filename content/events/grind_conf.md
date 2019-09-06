@@ -26,6 +26,7 @@ weight = 3
 - Мобильная разработка на Kotlin [Novice]
 - spinnaker.io [Novice]
 - Системы контроля версий (обзорная, например про [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki)) [Novice]
+- Альтернативы Spring (например [Micronaut](https://micronaut.io)) [Novice|Medium]
 
 ## Расписание
 
