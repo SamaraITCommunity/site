@@ -13,6 +13,8 @@ weight = 0
 # Template to use to render this section page
 template = "section.html"
 
+page_template = "page.html"
+
 # How many pages to be displayed per paginated page.
 # No pagination will happen if this isn't set or if the value is 0
 paginate_by = 0
