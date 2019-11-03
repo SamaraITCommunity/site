@@ -2,7 +2,6 @@
 title = "Hello World"
 date = 2018-07-30
 description = "Запуск веб-сайта Samara IT Community"
-template = "article.html"
 +++
 
 Мы запустили официальный сайт нашего сообщества Samara IT Community.
