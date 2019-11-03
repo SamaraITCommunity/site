@@ -47,7 +47,7 @@ description = "Курсы по ИТ специальностям в Самаре
 #### Java
 
 - Онлайн курсы Java от компании [КРОК](https://www.croc.ru/javaschool/).
-- Разработка ПО на платформе Java от [Учебного центра компании EPAM Самара и Тольятти](https://vk.com/kursy_epam).
+- Разработка ПО на платформе Java от [Учебного центра компании EPAM Самара и Тольятти](https://vk.com/training_epam).
 - Java от [Учебного центра компании Netcracker](http://sam.edu-netcracker.com/).
 
 #### PHP
