@@ -44,3 +44,20 @@ render = true
 Подробнее про события организуемые нашим сообществом вы можете ознакомиться ниже.
 
 ## [Материалы для докладчиков](bootcamp)
+
+## Hot topics
+
+Ниже перечислены темы, которые **очень** интересуют участников нашего сообщества. Мероприятия станут ярче от докладов про:
+
+- Тестирование UI [Medium]
+- LLVM [Novice]
+- Контейнеризация [Novice|Medium]
+- MongoDB [Advanced]
+- Подготовка резюме [Medium]
+- UNIX/Linux [Medium]
+- Concurrent programming: programming models (actor model, CSP, π-calculus, etc) and implementations 
+(async/await, go/coroutines, green threads, continuations, etc) [Advanced]
+- Мобильная разработка на Kotlin [Novice]
+- spinnaker.io [Novice]
+- Системы контроля версий (обзорная, например про [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki)) [Novice]
+- Альтернативы Spring (например [Micronaut](https://micronaut.io)) [Novice|Medium]

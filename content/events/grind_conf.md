@@ -11,23 +11,6 @@ weight = 3
 
 Хотите выступить на конференции? В настоящее время приём заявок приостановлен.
 
-## Hot topics
-
-Ниже перечислены темы, которые **очень** инетересуют участников нашего сообщества
-
-- Тестирование UI [Medium]
-- LLVM [Novice]
-- Контейнеризация [Novice|Medium]
-- MongoDB [Advanced]
-- Подготовка резюме [Medium]
-- UNIX/Linux [Medium]
-- Concurrent programming: programming models (actor model, CSP, π-calculus, etc) and implementations 
-(async/await, go/coroutines, green threads, continuations, etc) [Advanced]
-- Мобильная разработка на Kotlin [Novice]
-- spinnaker.io [Novice]
-- Системы контроля версий (обзорная, например про [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki)) [Novice]
-- Альтернативы Spring (например [Micronaut](https://micronaut.io)) [Novice|Medium]
-
 ## Расписание
 
 Расписание ближайших событий можно посмотреть на нашей [страничке в Timepad](https://samara-it-community.timepad.ru/).
