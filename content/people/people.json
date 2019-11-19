@@ -65,6 +65,10 @@
           {
             "title": "Frontend developer",
             "company": "Multikey studio"
+          },
+          {
+            "title": "Frontend developer",
+            "company": "EPAM"
           }
         ]
       },
@@ -118,6 +122,159 @@
         "telegram": "hermesis",
         "github": "hermesiss"
       }
-    }
+    },
+		{
+			"id": 5,
+			"avatar": {
+				"circle": ""
+			},
+			"bio": {
+				"name": "Danila Malchikov",
+				"birthday": "1996-11-05",
+				"jobs": [
+					{
+						"title": "C#_developer",
+						"company": "isys"
+					}
+				]
+			},
+			"social": {
+				"vk": "jvk1166z",
+				"telegram": "Megachelovek",
+				"github": "Megachelovek"
+			}
+		},
+		{
+			"id": 6,
+			"avatar": {
+				"circle": ""
+			},
+			"bio": {
+				"name": "Sergey Stepanov",
+				"birthday": "1995-08-31",
+				"jobs": [
+					{
+						"title": "",
+						"company": ""
+					}
+				]
+			},
+			"social": {
+				"vk": "stepanov__s",
+				"telegram": "step_srg",
+				"github": "AZAZ59"
+			}
+		},
+		{
+			"id": 7,
+			"avatar": {
+				"circle": ""
+			},
+			"bio": {
+				"name": "Ilia Bocharov",
+				"birthday": "1995-05-12",
+				"jobs": [
+					{
+						"title": "Software Engineer",
+						"company": "NetCracker"
+					}
+				]
+			},
+			"social": {
+				"vk": "bocharoviliyav",
+				"telegram": "bocharoviliyav",
+				"github": "bocharoviliyav",
+				"linkedin": "bocharoviliyav"
+			}
+		},
+		{
+			"id": 8,
+			"avatar": {
+				"circle": ""
+			},
+			"bio": {
+				"name": "Evgeny Kincharov",
+				"birthday": "",
+				"jobs": [
+					{
+						"title": "Ведущий инженер",
+						"company": "СамараНИПИнефть"
+					},
+					{
+						"title": "Lead Software Engineer",
+						"company": "EPAM Systems"
+					}
+				]
+			},
+			"social": {
+				"twitter": "kenmy",
+				"telegram": "kenmy",
+				"github": "kenmy"
+			}
+		},
+		{
+			"id": 9,
+			"avatar": {
+				"circle": ""
+			},
+			"bio": {
+				"name": "Andrey Selivanov",
+				"birthday": "1987-07-17",
+				"jobs": [
+					{
+						"title": "Front-end developer",
+						"company": "Mercury Development"
+					}
+				]
+			},
+			"social": {
+				"vk": "mamba_chamba"
+			}
+		},
+		{
+			"id": 10,
+			"avatar": {
+				"circle": "http://ya7auto.ru/.old/me.jpg"
+			},
+			"bio": {
+				"name": "Pavel Kolpakov",
+				"birthday": "1991-01-31",
+				"jobs": [
+					{
+						"title": "Веб-разработчик",
+						"company": "ya7auto.ru"
+					}
+				]
+			},
+			"social": {
+				"vk": "id344201352",
+				"telegram": "pkaptus",
+				"github": "kaptus"
+			}
+		},
+		{
+			"id": 11,
+			"avatar": {
+				"circle": "https://en.gravatar.com/userimage/16073402/f1a3c5c5301fd56517f28760ed8da873.jpg?size=200"
+			},
+			"bio": {
+				"name": "Sundukov Aleksei",
+				"birthday": "1981-06-21",
+				"jobs": [
+					{
+						"title": "",
+						"company": ""
+					}
+				]
+			},
+			"social": {
+				"twitter": "alekciy",
+				"vk": "alekciy",
+				"telegram": "alekciy",
+				"github": "alekciy",
+				"gitlab": "alekciy",
+				"linkedin": "alekciy"
+			}
+		}
 	]
 }
