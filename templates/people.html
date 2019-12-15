@@ -16,8 +16,7 @@
 	{% endif %}
 	{% if participant.social.github%}
 		<h2><a href="https://github.com/{{ participant.social.github }}">{{ participant.bio.name }}</a></h2>
-	{% endif %}
-	{% if participant.social.github%}
+	{% else %}
 		<h2>{{ participant.bio.name }}</h2>
 	{% endif %}
 	<p>
