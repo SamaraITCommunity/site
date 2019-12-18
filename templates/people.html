@@ -14,7 +14,11 @@
     	{% if participant.avatar.circle %}
 		<img src="{{participant.avatar.circle}}"/>	
 	{% endif %}
-        <h2><a href="https://github.com/{{ participant.social.github }}">{{ participant.bio.name }}</a></h2>
+	{% if participant.social.github%}
+		<h2><a href="https://github.com/{{ participant.social.github }}">{{ participant.bio.name }}</a></h2>
+	{% else %}
+		<h2>{{ participant.bio.name }}</h2>
+	{% endif %}
 	<p>
 	Работа:
 	<ul>
