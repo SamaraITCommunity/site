@@ -1,0 +1,276 @@
+{
+	"information": [
+		{
+			"id": 0,
+			"avatar": {
+				"circle": "/people/nikitapuzankov/circle_avatar.jpg"
+			},
+			"bio": {
+				"name": "Nikita Puzankov",
+				"birthday": "1993-10-28",
+				"jobs": [
+					{
+						"title": "Software Engineer",
+						"company": "Netcracker"
+					},
+					{
+						"title": "Lead Software Engineer",
+						"company": "EPAM"
+					},
+					{
+						"title": "Resource Manager",
+						"company": "EPAM"
+					}
+				]
+			},
+			"social": {
+				"twitter": "humb1t",
+				"vk": "humb1t",
+				"telegram": "humb1t",
+				"github": "humb1t",
+				"gitlab": "humb1t",
+				"linkedin": "humb1t",
+				"tumblr": "humb1t"
+			}
+		},
+		{
+			"id": 1,
+			"avatar": {
+				"circle": "/people/nikolaysladkiy/circle_avatar.jpg"
+			},
+			"bio": {
+				"name": "Nikolay Sladkiy",
+				"jobs": [
+					{
+						"title": "CTO",
+						"company": "Multikey Studio"
+					}
+				]
+			},
+			"social": {
+				"vk": "nikolasmelui",
+				"telegram": "nikolasmelui",
+				"github": "NikolasMelui"
+			}
+		},
+		{
+      "id": 2,
+      "avatar": {
+        "circle": "/people/dmitrynikolaev/circle_avatar.jpg"
+      },
+      "bio": {
+        "name": "Dmitry Nikolaev",
+        "birthday": "1993-02-11",
+        "jobs": [
+          {
+            "title": "Frontend developer",
+            "company": "EPAM Systems"
+          }
+        ]
+      },
+      "social": {
+        "twitter": "nikolaev_dd",
+        "vk": "nikolaev_dd",
+        "telegram": "nikolaev_dd",
+        "github": "BooSt163"
+      }
+    },
+		{
+      "id": 3,
+      "bio": {
+        "name": "Gennady Savinov",
+        "birthday": "1994-09-13",
+        "jobs": [
+          {
+            "title": "Senior Software Engineer",
+            "company": "nexign"
+          }
+        ]
+      },
+      "social": {
+        "twitter": "gennady_sa",
+        "vk": "gennady163",
+        "telegram": "genius163",
+        "github": "Gennady163sam",
+        "linkedin": "genius163"
+      }
+    },
+		{
+      "id": 4,
+      "avatar": {
+        "circle": "/people/alexandershimanov/circle_avatar.jpg"
+      },
+      "bio": {
+        "name": "Alexander Shimanov",
+        "birthday": "1990-01-05",
+        "jobs": [
+          {
+            "title": "Game developer",
+            "company": "SamSMU"
+          },
+          {
+            "title": "Owner",
+            "company": "VertigoVr"
+          }
+        ]
+      },
+      "social": {
+        "telegram": "hermesis",
+        "github": "hermesiss"
+      }
+    },
+		{
+			"id": 5,
+			"avatar": {
+				"circle": ""
+			},
+			"bio": {
+				"name": "Danila Malchikov",
+				"birthday": "1996-11-05",
+				"jobs": [
+					{
+						"title": "C#_developer",
+						"company": "isys"
+					}
+				]
+			},
+			"social": {
+				"vk": "jvk1166z",
+				"telegram": "Megachelovek",
+				"github": "Megachelovek"
+			}
+		},
+		{
+			"id": 6,
+			"avatar": {
+				"circle": ""
+			},
+			"bio": {
+				"name": "Sergey Stepanov",
+				"birthday": "1995-08-31",
+				"jobs": [
+					{
+						"title": "",
+						"company": ""
+					}
+				]
+			},
+			"social": {
+				"vk": "stepanov__s",
+				"telegram": "step_srg",
+				"github": "AZAZ59"
+			}
+		},
+		{
+			"id": 7,
+			"avatar": {
+				"circle": ""
+			},
+			"bio": {
+				"name": "Ilia Bocharov",
+				"birthday": "1995-05-12",
+				"jobs": [
+					{
+						"title": "Software Engineer",
+						"company": "NetCracker"
+					}
+				]
+			},
+			"social": {
+				"vk": "bocharoviliyav",
+				"telegram": "bocharoviliyav",
+				"github": "bocharoviliyav",
+				"linkedin": "bocharoviliyav"
+			}
+		},
+		{
+			"id": 8,
+			"avatar": {
+				"circle": ""
+			},
+			"bio": {
+				"name": "Evgeny Kincharov",
+				"birthday": "",
+				"jobs": [
+					{
+						"title": "Ведущий инженер",
+						"company": "СамараНИПИнефть"
+					},
+					{
+						"title": "Lead Software Engineer",
+						"company": "EPAM Systems"
+					}
+				]
+			},
+			"social": {
+				"twitter": "kenmy",
+				"telegram": "kenmy",
+				"github": "kenmy"
+			}
+		},
+		{
+			"id": 9,
+			"avatar": {
+				"circle": ""
+			},
+			"bio": {
+				"name": "Andrey Selivanov",
+				"birthday": "1987-07-17",
+				"jobs": [
+					{
+						"title": "Front-end developer",
+						"company": "Mercury Development"
+					}
+				]
+			},
+			"social": {
+				"vk": "mamba_chamba"
+			}
+		},
+		{
+			"id": 10,
+			"avatar": {
+				"circle": "http://ya7auto.ru/.old/me.jpg"
+			},
+			"bio": {
+				"name": "Pavel Kolpakov",
+				"birthday": "1991-01-31",
+				"jobs": [
+					{
+						"title": "Веб-разработчик",
+						"company": "ya7auto.ru"
+					}
+				]
+			},
+			"social": {
+				"vk": "id344201352",
+				"telegram": "pkaptus",
+				"github": "kaptus"
+			}
+		},
+		{
+			"id": 11,
+			"avatar": {
+				"circle": "https://en.gravatar.com/userimage/16073402/f1a3c5c5301fd56517f28760ed8da873.jpg?size=200"
+			},
+			"bio": {
+				"name": "Sundukov Aleksei",
+				"birthday": "1981-06-21",
+				"jobs": [
+					{
+						"title": "",
+						"company": ""
+					}
+				]
+			},
+			"social": {
+				"twitter": "alekciy",
+				"vk": "alekciy",
+				"telegram": "alekciy",
+				"github": "alekciy",
+				"gitlab": "alekciy",
+				"linkedin": "alekciy"
+			}
+		}
+	]
+}

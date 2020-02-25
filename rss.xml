@@ -1,0 +1,780 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>SITC</title>
+        <link>https://sitc.community</link>
+        <description>Сайт сообщества работников сферы ИТ Самары и области - Samara IT Community</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://sitc.community/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0000</lastBuildDate>
+        
+            <item>
+                <title>SITC.Mobile</title>
+                <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/communities/sitc-mobile/</link>
+                <guid>https://sitc.community/communities/sitc-mobile/</guid>
+                <description>&lt;h2 id=&quot;sitc-mobile&quot;&gt;SITC.Mobile&lt;&#x2F;h2&gt;
+&lt;p&gt;Мы являемся независимым сообществом разработчиков мобильных приложений из Самары.&lt;&#x2F;p&gt;
+&lt;p&gt;Если у тебя есть вопрос или задача связанная с Android, iOS,
+кросс-платформенными фреймворками для разработки мобильных приложений, ты можешь спросить нас в
+&lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;sitc_mobile&quot;&gt;уютном чатике&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Volgahack II</title>
+                <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/11-volgahack-ii/</link>
+                <guid>https://sitc.community/11-volgahack-ii/</guid>
+                <description>&lt;p&gt;Долгожданное событие - второй Volgahack уже в ноябре!&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Samara JS</title>
+                <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/communities/samarajs/</link>
+                <guid>https://sitc.community/communities/samarajs/</guid>
+                <description>&lt;h1 id=&quot;samarskaia-gruppa-pol-zovatelei-javascript&quot;&gt;Самарская группа пользователей JavaScript&lt;&#x2F;h1&gt;
+&lt;p&gt;Самарское сообщество разработчиков на &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;samara_frontend&quot;&gt;JavaScript&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>SamDotNet</title>
+                <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/communities/samdotnet/</link>
+                <guid>https://sitc.community/communities/samdotnet/</guid>
+                <description>&lt;h1 id=&quot;soobshchestvo-net-razrabotchikov-samary-i-oblasti&quot;&gt;Сообщество .NET-разработчиков Самары и области&lt;&#x2F;h1&gt;
+&lt;p&gt;Самарская ветвь всероссийского сообщества .NET-разработчиков dotnet.ru - это объединение людей, которые хотят учить и учиться,
+общаться с единомышленниками, &amp;quot;вариться&amp;quot; в кругу людей, которым скучно просто закрывать таски с 9 до 18 и которые всегда хотят
+большего.&lt;&#x2F;p&gt;
+&lt;p&gt;Make Samara .NET development great again!&lt;&#x2F;p&gt;
+&lt;p&gt;Наша тёплая ламповая группа с инфой и дамами - на &lt;a href=&quot;https:&#x2F;&#x2F;vk.com&#x2F;samdotnet&quot;&gt;ВКонтакте&lt;&#x2F;a&gt;.
+Не менее тёплый (а иногда и горячий!) чатик - в &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;samdotnetchat&quot;&gt;Телеграм&lt;&#x2F;a&gt;.
+Если хочется просто почитать новости, не разбавленные техническими замесами и юмором коллег - добро пожаловать в &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;samdotnet&quot;&gt;Телеграм-канал&lt;&#x2F;a&gt;.
+Ну а для тех, кто настроен совсем серьёзно, - наш аккаунт в &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;samdotnetc&quot;&gt;Twitter&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Объявления о встречах будут публиковаться как через &lt;a href=&quot;&#x2F;resources&quot;&gt;SITC каналы&lt;&#x2F;a&gt;, так и через вышеуказанные источники.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Open Data Science</title>
+                <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/communities/ods/</link>
+                <guid>https://sitc.community/communities/ods/</guid>
+                <description>&lt;h2 id=&quot;open-data-science&quot;&gt;Open Data Science&lt;&#x2F;h2&gt;
+&lt;p&gt;Русскоязычное сообщество про данные и машинное обучение - базируется в &lt;a href=&quot;http:&#x2F;&#x2F;opendatascience.slack.com&quot;&gt;Slack&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Руководство по публикации новостей на ресурсах SITC</title>
+                <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/resources/rules/</link>
+                <guid>https://sitc.community/resources/rules/</guid>
+                <description>&lt;h2 id=&quot;chto&quot;&gt;Что?&lt;&#x2F;h2&gt;
+&lt;p&gt;Начнём с вопроса: а что собственно публикуется на ресурсах SITC?
+Основными рубриками у нас являются:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;vk.com&#x2F;wall-143954349?q=%23%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8&quot;&gt;#вакансии&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;vk.com&#x2F;wall-143954349?q=%23%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F&quot;&gt;#мероприятия&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;vk.com&#x2F;wall-143954349?q=%23%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5&quot;&gt;#резюме&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;vk.com&#x2F;wall-143954349?q=%23%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E&quot;&gt;#интервью&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;vk.com&#x2F;wall-143954349?q=%23%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5&quot;&gt;#курсы и обучение&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Несмотря на наличие основных рубрик, мы с удовольствием поделимся интересной для подписчиков информацией, не подпадающей под вышеперечисленные категории.
+Любые публикации о некоммерческих мероприятиях, курсах и прочих событиях осуществляются на безвозмездной основе. Если же ваш анонс подразумевает коммерцию (платный вход, деньги за обучение и прочее), то мы опубликуем его лишь при выгоде для наших подписчиков. Это могут быть розыгрыш бесплатных мест на мероприятие или курсы, промокод со стоящей скидкой и тому подобное. Администраторы SITC не будут требовать вознаграждения для себя за публикацию каких-либо новостей, если вы столкнулись с подобной ситуацией — напишите об этом в ЛС Никите Пузанкову (@humb1t). Если же вы хотите отблагодарить сообщество, вы можете стать нашим &lt;a href=&quot;https:&#x2F;&#x2F;www.patreon.com&#x2F;samara_it_community&quot;&gt;патроном&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;meropriiatiia-kalendar-i-anonsy&quot;&gt;Мероприятия, календарь и анонсы&lt;&#x2F;h3&gt;
+&lt;p&gt;Участники нашего сообщества, публикующие анонсы предстоящих мероприятий, могут добавить свои события в наш &lt;a href=&quot;https:&#x2F;&#x2F;sitc.community&#x2F;events&#x2F;&quot;&gt;календарь&lt;&#x2F;a&gt; если:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;явно попросят @humb1t забронировать под них какое-то время и дату;&lt;&#x2F;li&gt;
+&lt;li&gt;сделают анонс мероприятия, в котором явно укажут время, дату и место проведения; ссылку на регистрацию, если таковая требуется; ссылку на группу или сайт мероприятия.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;В случае если вы оформили анонс согласно требованиям, но он не попал в календарь - можете смело напомнить об этом @humb1t для оперативного исправления ситуации.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gde&quot;&gt;Где?&lt;&#x2F;h2&gt;
+&lt;p&gt;Второй вопрос: куда отправлять ваши посты для публикаций? Чтобы иметь одну &amp;quot;точку входа&amp;quot;, мы испольуем наш &lt;a href=&quot;https:&#x2F;&#x2F;vk.com&#x2F;samara_it_community&quot;&gt;паблик&lt;&#x2F;a&gt; ВКонтакте — на его стене есть возможность &amp;quot;предложить новость&amp;quot;. После модерации мы опубликуем её ВКонтакте, а также &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;samara_it_community&quot;&gt;Twitter&lt;&#x2F;a&gt; и &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;Samara_IT_Community&quot;&gt;Telegram&lt;&#x2F;a&gt;. Использование такого подхода позволяет сохранить исходное форматирование, картинки и ссылки.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;kogda&quot;&gt;Когда?&lt;&#x2F;h2&gt;
+&lt;p&gt;Это главный вопрос, который многие упускают из виду, когда присылать публикацию. Ответ: желательно за пару недель до мероприятия. В среднем очередь новостей нашего сообщества расписана на неделю вперёд, поэтому присылая анонс за две недели до события, вы получите публикацию за неделю. Это стоит учитывать при возникновении вопроса: а попала ли новость в очередь? Мы просматриваем предлагаемые новости пару раз в день, и ваша новость вряд ли ускользнёт от нас, не переживайте. Если же по каким-то причинам она не подойдёт для публикации, мы сообщим вам об этом.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;kak&quot;&gt;Как?&lt;&#x2F;h2&gt;
+&lt;p&gt;Дополнительный вопрос: а как оформлять посты для публикаций? Далее будут перечислены важные советы, которые ускорят процесс модерации поста и увеличат шансы на его публикацию без доработок.&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Пишите в третьем лице.&lt;&#x2F;strong&gt; Стена нашего сообщества говорит с читателями от своего имени. Если вы формулируете текст от имени компании, мы вынуждены переписывать его (и не всегда так, как вам хотелось бы).&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Вставляйте контакты в текст.&lt;&#x2F;strong&gt; Приложения с искусственным интеллектом для копирования телефонных номеров с изображений ещё не вошли в обиход, и людям куда удобнее нажать на email в тексте для моментальной отправки отклика, чем пытаться перепечатать ваш почтовый ящик или номер телефона без ошибок.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Будьте коротки.&lt;&#x2F;strong&gt; Это не значит, что стоит использовать &amp;quot;твиттер&amp;quot; формат, но после написания текста пройдитесь по нему ещё пару раз и отсеките лишнее. Ваша задача — заинтересовать читателя и не потерять его внимание до самого блока обратной связи.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Не старайтесь блеснуть терминами и жаргоном.&lt;&#x2F;strong&gt; Знающие специалисты могут поймать вас на неверном использовании, a читатели уровнем ниже или из соседних областей не смогут понять смысл вакансии или определить аудиторию мероприятия, поэтому не будут рассказывать о нём друзьям.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Пожалуйста, используйте перечисленные выше хештеги (например &lt;code&gt;#вакансии&lt;&#x2F;code&gt;) для единообразия и категоризации наших записей.&lt;&#x2F;strong&gt; Мы оставляем в постах только подобные тэги, так что не стоит добавлять дополнительные или специфичные для вашей компании. Вместо этого вы можете использовать ссылки на группы или сайты, оставлять контактную информацию.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;faq&quot;&gt;FAQ&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Делаете ли вы репосты?&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Нет. Во-первых, при репосте репоста (простите) ВКонтакте будет отображать достаточно странную цепочку репостов без самого поста. Во-вторых, мы боремся за качественный и унифицированный контент. Запись на вашей стене будет отличаться от того, что мы готовим для наших подписчиков. В-третьих, уважайте труд редакторов: мы делаем это из чистого альтруизма, но он иногда кончается.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Как часто публикуются посты?&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Два раза в день — 10:30 и 17:30 по самарскому времени. Обычно публикации идут только по будням, но при большой очереди мы можем использовать выходные.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Что делать, если я не пользуюсь ВКонтакте?&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Зарегистрироваться и воспользоваться! Идите нам на встречу — мы всё-таки волонтёры.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Я отправил пост, прошло два дня, но его нет на стене. Нужно ли отправить его снова?&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Обычно пост лежит в отложенных новостях не более 7 дней. Если 7 дней прошло, а его нет, то стоит уточнить у администраторов сообщества его статус.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Мы забыли про анонс, а мероприятие уже завтра. Что делать?&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Пришлите пост в &amp;quot;предложить новость&amp;quot; и напишите нашему администратору просьбу об экстренной публикации. Мы будем стараться помочь, но не можем обещать.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Нам нужны репосты и хэштеги для аналитики.&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Используйте ссылки с UTM-метками. Хештеги и репосты запрещены.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;У нас разные картинки для разных социальных сетей. Как быть?&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Пришлите пост в &amp;quot;предложить новость&amp;quot; и напишите нашему администратору просьбу об использовании различных изображений в разных социальных сетях. Желательно именовать файлы в стиле &lt;code&gt;twitter.jpg&lt;&#x2F;code&gt; или &lt;code&gt;telegram.png&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Обязательно ли писать администраторам? Можно использовать сообщения сообщества?&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Да, можно.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;p-s&quot;&gt;P.S.&lt;&#x2F;h2&gt;
+&lt;p&gt;Если у вас остались вопросы — пишите в ЛС сообщества или администраторам.
+Мы очень благодарны за вашу поддержку и рады большому потоку постов, но чтобы эффективно с ним справляться, нужны дисциплина и дополнительные усилия с обеих сторон. Этот пост призван наладить понимание между подписчиками и редакторами, улучшить процесс и открыт для обсуждений и предложений. Спасибо, если вы дочитали до конца!&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>DC20e6</title>
+                <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/communities/def-con-ulsk/</link>
+                <guid>https://sitc.community/communities/def-con-ulsk/</guid>
+                <description>&lt;h2 id=&quot;defcon-ul-ianovsk&quot;&gt;DEFCON Ульяновск&lt;&#x2F;h2&gt;
+&lt;p&gt;DEFCON Ульяновск — сообщество, объединяющее людей, интересующихся изучением и необычным применением современных технологий, часто в направлении информационной безопасности — то есть всем, что понимается в широком положительном смысле слова «хакинг». Основанное в духе группы DEFCON, сообщество открыто для всех, кто хочет учиться новому, желает помогать развиваться другим и просто общаться с людьми с такими же профессиональными взглядами.&lt;&#x2F;p&gt;
+&lt;p&gt;С ближайшими мероприятиями и другой информацией можно ознакомиться на &lt;a href=&quot;http:&#x2F;&#x2F;dc20e6.ru&quot;&gt;официальном сайте&lt;&#x2F;a&gt;.
+Пообщаться с хакерами напрямую в &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;dc20e6&quot;&gt;уютном чатике&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>IT Way</title>
+                <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/communities/it-way/</link>
+                <guid>https://sitc.community/communities/it-way/</guid>
+                <description>&lt;h2 id=&quot;it-way&quot;&gt;IT Way&lt;&#x2F;h2&gt;
+&lt;p&gt;Дорогие нашему сердцу мальчики и девочки из Ульяновска продвигают разумное, доброе и вечное молодому поколению.&lt;&#x2F;p&gt;
+&lt;p&gt;С ближайшими мероприятиями и другой информацией можно ознакомиться на &lt;a href=&quot;http:&#x2F;&#x2F;it-way.pro&#x2F;&quot;&gt;официальном сайте&lt;&#x2F;a&gt;.
+Пообщаться с молодёжью напрямую в &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;it_way_chat&quot;&gt;уютном чатике&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Saratov IT</title>
+                <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/communities/saratov-it/</link>
+                <guid>https://sitc.community/communities/saratov-it/</guid>
+                <description>&lt;h2 id=&quot;saratov-it&quot;&gt;Saratov IT&lt;&#x2F;h2&gt;
+&lt;p&gt;Как известно Саратов - это Самара, а Самара - это Саратов. Поэтому ИТ сообщество Саратовской области нам почти как родное.&lt;&#x2F;p&gt;
+&lt;p&gt;С ближайшими мероприятиями и другой информацией можно ознакомиться на &lt;a href=&quot;https:&#x2F;&#x2F;www.saratovit.ru&#x2F;&quot;&gt;официальном сайте&lt;&#x2F;a&gt;.
+Пообщаться с друзьями напрямую в &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;saratovit_talks&quot;&gt;уютном чатике&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Книжная Барахолка</title>
+                <pubDate>Sun, 24 Mar 2019 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/resources/books/</link>
+                <guid>https://sitc.community/resources/books/</guid>
+                <description>&lt;p&gt;Книжная Барахолка&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Курсы</title>
+                <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/study/courses/</link>
+                <guid>https://sitc.community/study/courses/</guid>
+                <description>&lt;h2 id=&quot;obrazovatel-nye-kursy-v-samare-i-oblasti&quot;&gt;Образовательные курсы в Самаре и области.&lt;&#x2F;h2&gt;
+&lt;p&gt;Здесь собраны известные нам курсы по обучению ИТ специальностям.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;analitika&quot;&gt;Аналитика&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Business Analysis и Business Intelligence от &lt;a href=&quot;https:&#x2F;&#x2F;vk.com&#x2F;kursy_epam&quot;&gt;Учебного центра компании EPAM Самара и Тольятти&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Бизнес Аналитика от &lt;a href=&quot;http:&#x2F;&#x2F;sam.edu-netcracker.com&#x2F;&quot;&gt;Учебного центра компании Netcracker&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;kontrol-kachestva&quot;&gt;Контроль качества&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Тестирование ПО от &lt;a href=&quot;https:&#x2F;&#x2F;vk.com&#x2F;kursy_epam&quot;&gt;Учебного центра компании EPAM Самара и Тольятти&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;QA от компании &lt;a href=&quot;https:&#x2F;&#x2F;vk.com&#x2F;altarixrussia&quot;&gt;Altarix&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Тестирование ПО от &lt;a href=&quot;http:&#x2F;&#x2F;sam.edu-netcracker.com&#x2F;&quot;&gt;Учебного центра компании Netcracker&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;razrabotka&quot;&gt;Разработка&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;net&quot;&gt;.NET&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Разработка ПО на платформе .NET от &lt;a href=&quot;https:&#x2F;&#x2F;vk.com&#x2F;kursy_epam&quot;&gt;Учебного центра компании EPAM Самара и Тольятти&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;android&quot;&gt;Android&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Android разработка от компании &lt;a href=&quot;https:&#x2F;&#x2F;vk.com&#x2F;altarixrussia&quot;&gt;Altarix&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;bigdata&quot;&gt;BigData&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;BigData от &lt;a href=&quot;https:&#x2F;&#x2F;vk.com&#x2F;kursy_epam&quot;&gt;Учебного центра компании EPAM Самара и Тольятти&lt;&#x2F;a&gt;. &lt;a href=&quot;epa.ms&#x2F;bigdata-training-tlt&quot;&gt;Подробнее&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;front-end&quot;&gt;Front-end&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Front-end разработка от &lt;a href=&quot;https:&#x2F;&#x2F;vk.com&#x2F;kursy_epam&quot;&gt;Учебного центра компании EPAM Самара и Тольятти&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Front-end разработка от компании &lt;a href=&quot;https:&#x2F;&#x2F;vk.com&#x2F;altarixrussia&quot;&gt;Altarix&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;ios&quot;&gt;iOS&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;iOS разработка от компании &lt;a href=&quot;https:&#x2F;&#x2F;vk.com&#x2F;altarixrussia&quot;&gt;Altarix&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;java&quot;&gt;Java&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Онлайн курсы Java от компании &lt;a href=&quot;https:&#x2F;&#x2F;www.croc.ru&#x2F;javaschool&#x2F;&quot;&gt;КРОК&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Разработка ПО на платформе Java от &lt;a href=&quot;https:&#x2F;&#x2F;vk.com&#x2F;training_epam&quot;&gt;Учебного центра компании EPAM Самара и Тольятти&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Java от &lt;a href=&quot;http:&#x2F;&#x2F;sam.edu-netcracker.com&#x2F;&quot;&gt;Учебного центра компании Netcracker&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;php&quot;&gt;PHP&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;PHP разработка от компании &lt;a href=&quot;https:&#x2F;&#x2F;vk.com&#x2F;altarixrussia&quot;&gt;Altarix&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Руководство по публикации новостей на ресурсах SITC</title>
+                <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/10-posts-guid/</link>
+                <guid>https://sitc.community/10-posts-guid/</guid>
+                <description>&lt;p&gt;Недавно мы опубликовали новость о мероприятии... Уже после того, как это мероприятие прошло! Причинами стали невнимательность редактора (@humb1t) и поздний анонс (его прислали всего за пару дней до события). Чтобы избежать подобных ситуаций, мы публикуем подробное руководство по публикации новостей на наших ресурсах.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>JUG&#x2F;KUG Meetup February 2019</title>
+                <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/9-jug-kug-meetup-feb-2019/</link>
+                <guid>https://sitc.community/9-jug-kug-meetup-feb-2019/</guid>
+                <description>&lt;p&gt;Самара известна своей любовью к JVM — поэтому
+&lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;samarakug&quot;&gt;https:&#x2F;&#x2F;t.me&#x2F;samarakug&lt;&#x2F;a&gt; и &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;JUGSamara&quot;&gt;https:&#x2F;&#x2F;t.me&#x2F;JUGSamara&lt;&#x2F;a&gt;
+при поддержке компании EPAM объединили свои усилия для возрождения митапов, посвящённых
+Kotlin и Java!&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Discord Сервер</title>
+                <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/resources/discord/</link>
+                <guid>https://sitc.community/resources/discord/</guid>
+                <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;Vtnrgym&quot;&gt;Наш Discord сервер&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Подать заявку</title>
+                <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/events/apply/</link>
+                <guid>https://sitc.community/events/apply/</guid>
+                <description>&lt;h1 id=&quot;zaiavka-na-vystuplenie&quot;&gt;Заявка на выступление&lt;&#x2F;h1&gt;
+&lt;p&gt;В настоящее время приём заявок приостановлен.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>IT Way Samara</title>
+                <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/8-it-way-02-2019/</link>
+                <guid>https://sitc.community/8-it-way-02-2019/</guid>
+                <description>&lt;p&gt;9 февраля - коворкинг YellowRockets - Конференция как у сына маминой подруги - IT WAY SAMARA&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>GrindConf February 2019</title>
+                <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/7-grindconf-feb-2019/</link>
+                <guid>https://sitc.community/7-grindconf-feb-2019/</guid>
+                <description>&lt;p&gt;2 февраля - коворкинг YellowRockets - GrindConf February 2019&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>JUG&#x2F;KUG Meetup Review</title>
+                <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/6-jug-kug-meetup-how-it-was/</link>
+                <guid>https://sitc.community/6-jug-kug-meetup-how-it-was/</guid>
+                <description>&lt;p&gt;В прошлые выходные
+&lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;samarakug&quot;&gt;https:&#x2F;&#x2F;t.me&#x2F;samarakug&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;JUGSamara&quot;&gt;https:&#x2F;&#x2F;t.me&#x2F;JUGSamara&lt;&#x2F;a&gt;
+и компания EPAM объединили свои усилия для проведения J&#x2F;KUG Meetup.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>SITCast</title>
+                <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/4-sitcast-3/</link>
+                <guid>https://sitc.community/4-sitcast-3/</guid>
+                <description>&lt;p&gt;О чём мы рассказали в последних выпусках SITCast?&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>JUG&#x2F;KUG Meetup</title>
+                <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/5-jug-kug-meetup/</link>
+                <guid>https://sitc.community/5-jug-kug-meetup/</guid>
+                <description>&lt;p&gt;Самара известна своей любовью к JVM — поэтому
+&lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;samarakug&quot;&gt;https:&#x2F;&#x2F;t.me&#x2F;samarakug&lt;&#x2F;a&gt; и &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;JUGSamara&quot;&gt;https:&#x2F;&#x2F;t.me&#x2F;JUGSamara&lt;&#x2F;a&gt; объединили свои усилия для возрождения митапов посвящённых Kotlin и Java!&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>GrindConf November</title>
+                <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/3-grind-conf-november-review/</link>
+                <guid>https://sitc.community/3-grind-conf-november-review/</guid>
+                <description>&lt;p&gt;Небольшая заметка о &amp;quot;ламповой&amp;quot; конференции.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>ВолгаХакеры</title>
+                <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/people/hackers/volgahack/</link>
+                <guid>https://sitc.community/people/hackers/volgahack/</guid>
+                <description>&lt;h1 id=&quot;khakery-uchastniki-volgahack-2018&quot;&gt;Хакеры участники VolgaHack 2018&lt;&#x2F;h1&gt;
+&lt;p&gt;&#x2F;&#x2F;чтобы добавить своё имя - пожалуйста сделайте PR в наш &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;SamaraITCommunity&#x2F;site&quot;&gt;репозиторий&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Samara KUG</title>
+                <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/communities/kug/</link>
+                <guid>https://sitc.community/communities/kug/</guid>
+                <description>&lt;h1 id=&quot;samarskaia-gruppa-pol-zovatelei-kotlin&quot;&gt;Самарская группа пользователей Kotlin&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;communities&#x2F;Samara_Kotlin_UG_logo.jpg&quot; alt=&quot;Samara KUG logo&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Самарское сообщество разработчиков на языке &lt;a href=&quot;https:&#x2F;&#x2F;kotlinlang.org&quot;&gt;Kotlin&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Специально для обсуждения вопросов связанных с Kotlin, поиском работы или проектов, выступлений и обмена новостями есть
+&lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;samarakug&quot;&gt;чат в телеграме&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;объявления о встречах будут публиковаться через общие &lt;a href=&quot;&#x2F;resources&quot;&gt;SITC каналы&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>SamJUG</title>
+                <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/communities/jug/</link>
+                <guid>https://sitc.community/communities/jug/</guid>
+                <description>&lt;h1 id=&quot;samarskaia-gruppa-pol-zovatelei-java&quot;&gt;Самарская группа пользователей Java&lt;&#x2F;h1&gt;
+&lt;p&gt;JUG в Самаре много раз умирал и возраждался и новая реинкарнация нацелена на постоянные (раз в два месяца)
+сборы любителей Write ones run everywhere.&lt;&#x2F;p&gt;
+&lt;p&gt;В этот раз при активной поддержке SITC, основные обсуждения будут вынесены в &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;JUGSamara&quot;&gt;JUG telegram чат&lt;&#x2F;a&gt;
+объявления о встречах будут публиковаться через &lt;a href=&quot;&#x2F;resources&quot;&gt;SITC каналы&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Автоматизация тестирования</title>
+                <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/communities/test-automation/</link>
+                <guid>https://sitc.community/communities/test-automation/</guid>
+                <description>&lt;h1 id=&quot;avtomatizatsiia-testirovaniia&quot;&gt;Автоматизация тестирования&lt;&#x2F;h1&gt;
+&lt;p&gt;Информация публикуется в &lt;a href=&quot;https:&#x2F;&#x2F;vk.com&#x2F;at_community&quot;&gt;группе ВК&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>VolgaHack - как это было</title>
+                <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/2-volgahack-review/</link>
+                <guid>https://sitc.community/2-volgahack-review/</guid>
+                <description>&lt;p&gt;Инфографика, отзывы и итоги прошедшего хакатона&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Instagram Account</title>
+                <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/resources/insta/</link>
+                <guid>https://sitc.community/resources/insta/</guid>
+                <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.instagram.com&#x2F;itc_samara&#x2F;&quot;&gt;Наш инстаграм аккаунт&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Patreon Creator</title>
+                <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/resources/patreon/</link>
+                <guid>https://sitc.community/resources/patreon/</guid>
+                <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.patreon.com&#x2F;samara_it_community&quot;&gt;Поддержи нас на Patreon&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>SITCast</title>
+                <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/resources/podcast/</link>
+                <guid>https://sitc.community/resources/podcast/</guid>
+                <description>&lt;p&gt;SITCast - подкаст сообщества про IT в Самаре и не только.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Telegram Channel and Chat</title>
+                <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/resources/telegram/</link>
+                <guid>https://sitc.community/resources/telegram/</guid>
+                <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;Samara_IT_Community&quot;&gt;Наш Telegram канал&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Twitter Account</title>
+                <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/resources/twitter/</link>
+                <guid>https://sitc.community/resources/twitter/</guid>
+                <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;TcommunityI&quot;&gt;Наш Twitter&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Группа Vkontakte</title>
+                <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/resources/vk/</link>
+                <guid>https://sitc.community/resources/vk/</guid>
+                <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;vk.com&#x2F;samara_it_community&quot;&gt;Наша группа в ВК&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>VolgaHack</title>
+                <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/1-volgahack/</link>
+                <guid>https://sitc.community/1-volgahack/</guid>
+                <description>&lt;p&gt;&lt;a name=&quot;continue-reading&quot;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;volga-hack&quot;&gt;Volga Hack&lt;&#x2F;h4&gt;
+&lt;p&gt;Запускаем первый хакатон от Samara IT Community и наших партнёров -
+подробную информацию можно узнать на &lt;a href=&quot;https:&#x2F;&#x2F;volgahack.ru&quot;&gt;сайте&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Hello World</title>
+                <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/0-site-run/</link>
+                <guid>https://sitc.community/0-site-run/</guid>
+                <description>&lt;p&gt;Мы запустили официальный сайт нашего сообщества Samara IT Community.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>GrindConf</title>
+                <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/events/grind-conf/</link>
+                <guid>https://sitc.community/events/grind-conf/</guid>
+                <description>&lt;h1 id=&quot;grindconf&quot;&gt;GrindConf&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;zaiavka-na-uchastie&quot;&gt;Заявка на участие&lt;&#x2F;h2&gt;
+&lt;p&gt;Хотите выступить на конференции? В настоящее время приём заявок приостановлен.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;raspisanie&quot;&gt;Расписание&lt;&#x2F;h2&gt;
+&lt;p&gt;Расписание ближайших событий можно посмотреть на нашей &lt;a href=&quot;https:&#x2F;&#x2F;samara-it-community.timepad.ru&#x2F;&quot;&gt;страничке в Timepad&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;proshedshie-konferentsii&quot;&gt;Прошедшие конференции&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;2018-god&quot;&gt;2018 год&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;samara-it-community.timepad.ru&#x2F;event&#x2F;706307&#x2F;&quot;&gt;GrindConf Spring 18&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;samara-it-community.timepad.ru&#x2F;event&#x2F;736565&#x2F;&quot;&gt;GrindConf Summer June&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;vk.com&#x2F;event168174576&quot;&gt;GrindConf Summer July&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;vk.com&#x2F;event167740154&quot;&gt;GrindConf Summer Togliatti&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;vk.com&#x2F;event169250053&quot;&gt;GrindConf Summer August&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;vk.com&#x2F;event172461220&quot;&gt;GrindConf November&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;organizatory&quot;&gt;Организаторы&lt;&#x2F;h2&gt;
+&lt;p&gt;Подробнее об организаторах можно узнать в разделе &lt;a href=&quot;&#x2F;people&#x2F;orgs&#x2F;#grind_conf&quot;&gt;организаторы&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Администраторы</title>
+                <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/people/admins/</link>
+                <guid>https://sitc.community/people/admins/</guid>
+                <description>&lt;h1 id=&quot;administratory-soobshchestva&quot;&gt;Администраторы сообщества&lt;&#x2F;h1&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;julypuzankova&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;julypuzankova&quot;&gt;
+        &lt;span&gt; Юлия Пузанкова &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt; 
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;nikolaysladkiy&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;nikolaysladkiy&quot;&gt;
+        &lt;span&gt; Николай Сладкий &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;dmitrynikolaev&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;dmitrynikolaev&quot;&gt;
+        &lt;span&gt; Дмитрий Николаев &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;nikitapuzankov&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;nikitapuzankov&quot;&gt;
+        &lt;span&gt; Никита Пузанков &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;dmitriychervyakov&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;dmitriychervyakov&quot;&gt;
+        &lt;span&gt; Дмитрий Червяков &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Организаторы</title>
+                <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/people/orgs/</link>
+                <guid>https://sitc.community/people/orgs/</guid>
+                <description>&lt;h1 id=&quot;organizatory-meropriiatii-pod-egidoi-nashego-soobshchestva&quot;&gt;Организаторы мероприятий под эгидой нашего сообщества:&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;grindconf&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;sitc.community&#x2F;people&#x2F;orgs&#x2F;#grind_conf&quot;&gt;GrindConf&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;julypuzankova&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;julypuzankova&quot;&gt;
+        &lt;span&gt; Юлия Пузанкова &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt; 
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;dmitrynikolaev&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;dmitrynikolaev&quot;&gt;
+        &lt;span&gt; Дмитрий Николаев &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;nikitapuzankov&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;nikitapuzankov&quot;&gt;
+        &lt;span&gt; Никита Пузанков &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;volgahack&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;sitc.community&#x2F;people&#x2F;orgs&#x2F;#volgahack&quot;&gt;VolgaHack&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;julypuzankova&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;julypuzankova&quot;&gt;
+        &lt;span&gt; Юлия Пузанкова &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt; 
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;nikitapuzankov&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;nikitapuzankov&quot;&gt;
+        &lt;span&gt; Никита Пузанков &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;dmitriychervyakov&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;dmitriychervyakov&quot;&gt;
+        &lt;span&gt; Дмитрий Червяков &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;artyomivanov&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;artyomivanov&quot;&gt;
+        &lt;span&gt; Артём Иванов &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;nikolaysladkiy&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;nikolaysladkiy&quot;&gt;
+        &lt;span&gt; Николай Сладкий &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Администраторы</title>
+                <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/people/profiles/0/</link>
+                <guid>https://sitc.community/people/profiles/0/</guid>
+                <description>&lt;h1 id=&quot;administratory-soobshchestva&quot;&gt;Администраторы сообщества&lt;&#x2F;h1&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;julypuzankova&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;julypuzankova&quot;&gt;
+        &lt;span&gt; Юлия Пузанкова &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt; 
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;nikolaysladkiy&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;nikolaysladkiy&quot;&gt;
+        &lt;span&gt; Николай Сладкий &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;dmitrynikolaev&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;dmitrynikolaev&quot;&gt;
+        &lt;span&gt; Дмитрий Николаев &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;nikitapuzankov&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;nikitapuzankov&quot;&gt;
+        &lt;span&gt; Никита Пузанков &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;dmitriychervyakov&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;dmitriychervyakov&quot;&gt;
+        &lt;span&gt; Дмитрий Червяков &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Докладчики</title>
+                <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/people/speakers/</link>
+                <guid>https://sitc.community/people/speakers/</guid>
+                <description>&lt;h1 id=&quot;spikery-nashego-soobshchestva&quot;&gt;Спикеры нашего сообщества&lt;&#x2F;h1&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;nikolaysladkiy&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;nikolaysladkiy&quot;&gt;
+        &lt;span&gt; Николай Сладкий &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;ul&gt;
+&lt;li&gt;Войти в IT - GrindConf Spring 18&lt;&#x2F;li&gt;
+&lt;li&gt;VIM VIM VIM - GrindConf Summer Togliatti; GrindConf Summer July&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;nikitapuzankov&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;nikitapuzankov&quot;&gt;
+        &lt;span&gt; Никита Пузанков &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;ul&gt;
+&lt;li&gt;Rust, or there and back again - GrindConf Spring 18&lt;&#x2F;li&gt;
+&lt;li&gt;Make REST great again - GrindConf Summer June&lt;&#x2F;li&gt;
+&lt;li&gt;Rust, or there and back again, part 2 - GrindConf Summer July&lt;&#x2F;li&gt;
+&lt;li&gt;Вжух - превращаем монолит в микросервисы - GrindConf Summer August&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;dmitriychervyakov&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;dmitriychervyakov&quot;&gt;
+        &lt;span&gt; Дмитрий Червяков &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;ul&gt;
+&lt;li&gt;Hackatonы как способ путешествовать бесплатно - GrindConf Spring 18&lt;&#x2F;li&gt;
+&lt;li&gt;Э-эффективность - GrindConf Summer August&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;evgeniiyulin&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;evgeniiyulin&quot;&gt;
+        &lt;span&gt; Евгений Юлин &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;ul&gt;
+&lt;li&gt;Vue.js - GrindConf Spring 18&lt;&#x2F;li&gt;
+&lt;li&gt;Vue.js - GrindConf Summer Togliatti&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;nikitafedyunin&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;nikitafedyunin&quot;&gt;
+        &lt;span&gt; Никита Федюнин &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;ul&gt;
+&lt;li&gt;Kotlin для котиков - GrindConf Spring 18&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;mikhailbondarenko&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;mikhailbondarenko&quot;&gt;
+        &lt;span&gt; Михаил Бондарекно &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;ul&gt;
+&lt;li&gt;Clickhouse для тепловых карт - GrindConf Summer June&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;dmitriymesherin&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;dmitriymesherin&quot;&gt;
+        &lt;span&gt; Дмитрий Мещерин &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;ul&gt;
+&lt;li&gt;Angular 2+ в действии - GrindConf Summer June&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;sergeytulpin&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;sergeytulpin&quot;&gt;
+        &lt;span&gt; Сергей Тюльпин &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;ul&gt;
+&lt;li&gt;Профессиональное сообщество как возможности для роста - GrindConf Summer June&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;pavelkalashnikov&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;pavelkalashnikov&quot;&gt;
+        &lt;span&gt; Павел Калашников &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;ul&gt;
+&lt;li&gt;TDD: когда нужно и, самое главное, когда не нужно - GrindConf Summer July&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;evgeniiandreev&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;evgeniiandreev&quot;&gt;
+        &lt;span&gt; Евгений Андреев &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;ul&gt;
+&lt;li&gt;Если скучно писать тесты - GrindConf Summer July&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;alexeydatskov&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;alexeydatskov&quot;&gt;
+        &lt;span&gt; Алексей Дацков &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;ul&gt;
+&lt;li&gt;Почему MongoDB лучшая база на свете - GrindConf Summer July&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;div class=&quot;mini-profile&quot;&gt;
+    &lt;img src=&quot;&#x2F;people&#x2F;ilyakuchmin&#x2F;circle_avatar.jpg&quot; &#x2F;&gt;
+    &lt;a href=&quot;&#x2F;people&#x2F;profiles&#x2F;ilyakuchmin&quot;&gt;
+        &lt;span&gt; Илья Кучмин &lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;ul&gt;
+&lt;li&gt;Эффективность на кончиках пальцев, буквально... - GrindConf Summer Togliatti&lt;&#x2F;li&gt;
+&lt;li&gt;Эффективность на кончиках пальцев, буквально... - GrindConf Summer August&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Git Organization</title>
+                <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/resources/git/</link>
+                <guid>https://sitc.community/resources/git/</guid>
+                <description>&lt;div &gt;
+    &lt;script src=&quot;https:&amp;#x2F;&amp;#x2F;gist.github.com&amp;#x2F;humb1t&amp;#x2F;84321f1d54873a8f0f31c46f060d295c.js&quot;&gt;&lt;&#x2F;script&gt;
+&lt;&#x2F;div&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Youtube канал</title>
+                <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+                <link>https://sitc.community/resources/youtube/</link>
+                <guid>https://sitc.community/resources/youtube/</guid>
+                <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;channel&#x2F;UCWwGzRCrnCWRVQ_UlpwZQMA&quot;&gt;Наш канал на Youtube&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+    </channel>
+</rss>
