@@ -1,0 +1,13 @@
+name: CI
+on:
+  push:
+    branches: [ master ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Zola Deploy to Pages
+      uses: shalzz/zola-deploy-action@v0.10.0
+      env:
+        TOKEN: ${{ secrets.TOKEN }}
