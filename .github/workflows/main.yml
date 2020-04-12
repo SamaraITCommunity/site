@@ -8,7 +8,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Tree a directory
-      run: ls -al ../
+      run: ls -al /github/workspace
     - name: Zola Deploy to Pages
       uses: shalzz/zola-deploy-action@v0.10.0
       env:
