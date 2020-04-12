@@ -3,7 +3,6 @@ on:
   push:
     branches:
       - master
-name: Build and deploy on push
 jobs:
   build:
     name: zbrox/zola-deploy-action
