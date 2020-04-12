@@ -1,0 +1,14 @@
+before_script:
+  - curl -s -L https://github.com/getzola/zola/releases/download/v0.9.0/zola-v0.9.0-x86_64-unknown-linux-gnu.tar.gz | sudo tar xvzf - -C /usr/local/bin
+script:
+  - git submodule init
+  - git submodule update
+  - zola build
+
+after_success: |
+  [ $TRAVIS_BRANCH = master ] &&
+  [ $TRAVIS_PULL_REQUEST = false ] &&
+  zola build &&
+  sudo pip install ghp-import &&
+  ghp-import -c sitc.community -n public &&
+  git push -fq https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git gh-pages
