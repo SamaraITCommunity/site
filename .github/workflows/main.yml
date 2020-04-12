@@ -1,13 +1,16 @@
 name: CI
 on:
   push:
-    branches: [ master ]
+    branches:
+      - master
+name: Build and deploy on push
 jobs:
   build:
+    name: zbrox/zola-deploy-action
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Zola Deploy to Pages
-      uses: shalzz/zola-deploy-action@v0.10.0
+    - uses: actions/checkout@master
+    - name: zbrox/zola-deploy-action
+      uses: zbrox/zola-deploy-action@master
       env:
         TOKEN: ${{ secrets.TOKEN }}
