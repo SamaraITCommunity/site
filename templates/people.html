@@ -8,7 +8,7 @@
 {% block content %}
     <h1>{{ section.title }}</h1>
     {{ section.content | safe }}
-    {% set data = load_data(path="people/people.json") %}
+    {% set data = load_data(path="static/people/people.json") %}
     <div class="participants">
     {% for participant in data.information %}
     	{% if participant.avatar.circle %}
