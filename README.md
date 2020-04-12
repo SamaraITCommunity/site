@@ -1,5 +1,3 @@
-![CI](https://github.com/SamaraITCommunity/site/workflows/CI/badge.svg)
-
 # Официальный сайт Samara IT Community
 
 Репозиторий содержит исходный код для официального [сайта](https://sitc.community) Samara IT Community.
